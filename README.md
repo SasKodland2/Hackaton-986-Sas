@@ -1,3 +1,10 @@
 # Hackaton-986-Sas
 
-Website daur ulang sampah anorganik
+## ide projek 
+: Website daur ulang sampah anorganik
+
+### Bahan 
+: Stuff yg ada di ECO Calculator kyk HTML n CSS, etc.
+
+#### Library 
+: Still thinking about it (I'll edit it)
