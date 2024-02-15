@@ -1,6 +1,6 @@
 # Hackaton-986-Sas
 
-## ide projek 
+## Ide projek 
 : Website daur ulang sampah anorganik
 
 ### Bahan 
